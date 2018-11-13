@@ -1,5 +1,5 @@
 <?php
-  $dir    = '/';
+  $dir    = '/storage';
   $files1 = scandir($dir);
   $files2 = scandir($dir, 1);
 
